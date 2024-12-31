@@ -1,3 +1,5 @@
+Wrote totally different text
+
 I've added a file b.
 It does
 1
