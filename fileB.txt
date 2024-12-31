@@ -1,0 +1,5 @@
+I've added a file b.
+It does
+1
+2
+3
